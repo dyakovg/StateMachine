@@ -1,0 +1,11 @@
+C:\Users\gdqko\source\repos\StateMachine\StateMachine\bin\Debug\netcoreapp3.1\StateMachine.exe
+C:\Users\gdqko\source\repos\StateMachine\StateMachine\bin\Debug\netcoreapp3.1\StateMachine.deps.json
+C:\Users\gdqko\source\repos\StateMachine\StateMachine\bin\Debug\netcoreapp3.1\StateMachine.runtimeconfig.json
+C:\Users\gdqko\source\repos\StateMachine\StateMachine\bin\Debug\netcoreapp3.1\StateMachine.runtimeconfig.dev.json
+C:\Users\gdqko\source\repos\StateMachine\StateMachine\bin\Debug\netcoreapp3.1\StateMachine.dll
+C:\Users\gdqko\source\repos\StateMachine\StateMachine\bin\Debug\netcoreapp3.1\StateMachine.pdb
+C:\Users\gdqko\source\repos\StateMachine\StateMachine\obj\Debug\netcoreapp3.1\StateMachine.csprojAssemblyReference.cache
+C:\Users\gdqko\source\repos\StateMachine\StateMachine\obj\Debug\netcoreapp3.1\StateMachine.AssemblyInfoInputs.cache
+C:\Users\gdqko\source\repos\StateMachine\StateMachine\obj\Debug\netcoreapp3.1\StateMachine.AssemblyInfo.cs
+C:\Users\gdqko\source\repos\StateMachine\StateMachine\obj\Debug\netcoreapp3.1\StateMachine.dll
+C:\Users\gdqko\source\repos\StateMachine\StateMachine\obj\Debug\netcoreapp3.1\StateMachine.pdb
